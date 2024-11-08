@@ -1,4 +1,4 @@
-# Centralized Retail Performance Dashboard
+# Centralized Retail Performance Dashboard - RetailVue
 
 ## Overview
 This repository contains the DB Schema, BRD documentation and wireframe design for the project.
